@@ -1,0 +1,6 @@
+Credentials cache: API:B8BA8C7E-8BDB-4DC3-A274-0F657AE9A004
+        Principal: fgungor@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Sep 29 14:21:57 2021  Sep 30 00:21:57 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Sep 29 14:21:58 2021  Sep 30 00:21:57 2021  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
